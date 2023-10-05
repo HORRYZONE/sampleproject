@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "188514902504",
+    "project_id": "signease-dff42",
+    "storage_bucket": "signease-dff42.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:188514902504:android:afe04e5fc8ca38c4f4445d",
+        "android_client_info": {
+          "package_name": "com.codingwitht.login_flutter_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQ3wc8pL_L2y4OIARReLP2dAK3BDyqbN4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
