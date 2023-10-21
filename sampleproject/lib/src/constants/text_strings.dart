@@ -17,25 +17,25 @@ const String tSignInWithGoogle = "Sign-In with Google";
 
 
 // -- Splash Screen Text
-const String tAppName = "/appable:";
-const String tAppTagLine = "Learn To Code. \nFree For Everyone";
+const String tAppName = "/SignEase";
+const String tAppTagLine = "Easy To Use. \nAnywhere Anytime";
 
 
 // -- On Boarding Text
-const String tOnBoardingTitle1 = "Build Awesome Apps";
-const String tOnBoardingTitle2 = "Learn from YouTube";
-const String tOnBoardingTitle3 = "Get Code & Resources";
-const String tOnBoardingSubTitle1 = "Let's start your journey with us on this amazing and easy platform.";
-const String tOnBoardingSubTitle2 = "Get Video Tutorials of each topic to learn things easily.";
-const String tOnBoardingSubTitle3 = "Save time by just copy pasting complete apps you learned from videos.";
+const String tOnBoardingTitle1 = "Boundless Communication";
+const String tOnBoardingTitle2 = "Easy Learning";
+const String tOnBoardingTitle3 = "Keep Connected";
+const String tOnBoardingSubTitle1 = "Communicate comfortably with the aid of two ways sign language translator.";
+const String tOnBoardingSubTitle2 = "Learn and improve your sign language skill with interactive learning session anytime and anywhere.";
+const String tOnBoardingSubTitle3 = "Make new friends and interact virtually across the globe.";
 const String tOnBoardingCounter1 = "1/3";
 const String tOnBoardingCounter2 = "2/3";
 const String tOnBoardingCounter3 = "3/3";
 
 
 // -- Welcome Screen Text
-const String tWelcomeTitle = "Build Awesome Apps";
-const String tWelcomeSubTitle = "Let's put your creativity on the development highway.";
+const String tWelcomeTitle = "Cultivate Your Talents";
+const String tWelcomeSubTitle = "our platform provides a space for you to express yourself, learn, and collaborate.";
 
 
 // -- Login Screen Text
